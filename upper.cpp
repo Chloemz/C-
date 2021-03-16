@@ -1,7 +1,6 @@
 //Name: Chloe Zambrano
 //Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  Lab 4E upper.cpp
-//Instructor: Tong Yi
+
 //This Program prints the top-right half of a square, given the side length.
 //example: input 3:
 //***
