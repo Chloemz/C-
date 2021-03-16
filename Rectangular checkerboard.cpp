@@ -1,6 +1,5 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  Lab 4B checkerboard.cpp
+
 //This Program asks the user to input width and height and prints a rectangular 
 //checkerboard of the requested size using asterisks and spaces (alternating).
 
