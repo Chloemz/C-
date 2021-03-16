@@ -1,7 +1,5 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  Lab 4F trapezoid.cpp
-//Instructor: Tong Yi
+
 //This Program prints an upside-down trapezoid of given width and height.
 //example: Input width: 4 Input height: 3
 // ****
