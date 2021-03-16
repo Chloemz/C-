@@ -1,17 +1,14 @@
 /*
 Name: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi13500-01 
-Professor Tong Yi
-Lab2D: Fibonacci Sequence.
+Fibonacci Sequence.
 This program uses an array of integers to 
 print the first 60 Fibonacci number sequence,
 i.e all Fibonacci numbers from F(0) to F(59).
 */
 
-#include <iostream>   //The built-in library for input/output
-using namespace std; //The names of standard definitions
-int main()           //C++ programs all have a main() function
+#include <iostream>   
+using namespace std; 
+int main()           
 {
     // make an array
     int fib[60];
