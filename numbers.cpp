@@ -1,9 +1,6 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01 LAB 5G LARGEST TWIN PRIME numbers.cpp
-//Instructor: Tong Yi
-//This Program returns the largest twin prime in the range a ≤ N ≤ b.
-//If there is no twin primes in range, it returns -1
+//Below is a list of bool Function prototypes created to compute the following: (listed below)
+
 
 //N is called a twin prime if either N-2 or N+2 (or both of them) is also a prime.
 //For example, a prime 17 is a twin prime, because 17+2 = 19 is a prime as well.
