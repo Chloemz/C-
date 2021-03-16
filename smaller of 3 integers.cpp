@@ -1,15 +1,13 @@
 /*
 Name: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi13500-01 
-Professor Tong Yi
-Lab1B: Smaller of three integers. 
+
+Smaller of three integers. 
 This program asks the user to input three integer numbers and prints out the smaller of the three.
 */
 
-#include <iostream>   //The built-in library for input/output
-using namespace std; //The names of standard definitions
-int main()           //C++ programs all have a main() function
+#include <iostream>   
+using namespace std; 
+int main()           
 {
   double num1, num2, num3; //Note: declare double when comparing #s
   cout << "Enter the first number: "<< endl;
@@ -32,5 +30,5 @@ int main()           //C++ programs all have a main() function
     cout << "The smaller of the three is " << num3 << endl;
   }
 
-  return 0; //end function 
+  return 0; 
 }
