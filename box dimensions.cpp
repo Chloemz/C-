@@ -1,6 +1,5 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  Lab 4A Box.cpp
+
 //This Program asks the user to input width and height and prints a solid rectangular box of 
 //the requested size using asterisks.
 
