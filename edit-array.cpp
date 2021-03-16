@@ -1,16 +1,13 @@
 /*
 Name: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi13500-01 
-Professor Tong Yi
-Lab2C: Edit-Array.
+Edit-Array.
 This program creates an array of 10 integers, and provides the user 
 with an interface to edit any of its elements.
 */
 
-#include <iostream>   //The built-in library for input/output
-using namespace std; //The names of standard definitions
-int main()           //C++ programs all have a main() function
+#include <iostream>   
+using namespace std; 
+int main()           
 {
   // If you need to store values in a table-like fashion, C++ provides the following array data structure:
   int myData[10]; //Creates an array called myData with 10 cells each storing integer values
@@ -49,5 +46,5 @@ int main()           //C++ programs all have a main() function
   cout << "Index out of range. Exit. "<<endl;
   
    
-  return 0; //end function 
+  return 0; 
 }
