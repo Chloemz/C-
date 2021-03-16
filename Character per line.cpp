@@ -1,6 +1,5 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  HW E 4.8
+
 //This Program reads a word and prints each character 
 //of the word on a separate line. 
 
