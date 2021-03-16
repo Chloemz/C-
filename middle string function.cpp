@@ -1,7 +1,6 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  HW E5.6 string function.cpp
-//Instructor: Tong Yi
+
+//string function.cpp
 //This Program returns a string containing the middle character in str 
 //if the length of str is odd, or the two middle characters if the length is even. 
 //For example, middle("middle") returns "dd". 
