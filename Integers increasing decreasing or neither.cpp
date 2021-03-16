@@ -1,6 +1,6 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  HW E 3.5
+
+
 //This Program reads reads three numbers and prints 
 //“increasing” if they are in increasing order, “decreasing” 
 //if they are in decreasing order, and “neither” other- wise. Here, 
