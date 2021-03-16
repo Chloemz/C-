@@ -1,7 +1,6 @@
 //Name: Chloe Zambrano
 //Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  Lab 4D lower.cpp
-//Instructor: Tong Yi
+
 //This Program prints the bottom-left half of a square, given the side length
 
 
