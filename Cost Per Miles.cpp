@@ -1,13 +1,13 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01 HW E.210 Cost Per Miles
 
-#include <iostream>     //The built-in library for input/output
-using namespace std; //The names of standard definitions
-int main()           //C++ programs all have a main() function
+//Calculates Cost Per Milegiven the three inputs: #gallons, fuel efficiency, pp gallon.
+
+#include <iostream>     
+using namespace std; 
+int main()           
 //prompt user to enter an int from keyboard.
 {
-  double gall, fuel, price, dist, total; //defines numeric variables holding numbers with decimal pts   
+  double gall, fuel, price, dist, total; //double for numeric variables with decimal pts   
   cout << "Enter a number of gallon: " << endl;
   cin >> gall;
   cout << "Enter fuel efficiency in miles per gallon: "<< endl;
