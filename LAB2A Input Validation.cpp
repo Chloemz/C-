@@ -1,17 +1,15 @@
 /*
 Name: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi13500-01 
-Professor Tong Yi
-LAB2A: Input Validation.
+
+Input Validation.
 This program asks the user to input an integer in the range 0 < n < 100. 
 If the number is out of range, the program should keep asking to re-enter until a valid number is input.
 After a valid value is obtained, print this number n squared.
 */
 
-#include <iostream>   //The built-in library for input/output
-using namespace std; //The names of standard definitions
-int main()           //C++ programs all have a main() function
+#include <iostream>   
+using namespace std; 
+int main()           
 {
   int num; //Note: remember when to declare double vs int
   cout << "Please enter an integer: "<< endl;
@@ -27,5 +25,5 @@ int main()           //C++ programs all have a main() function
 
   cout <<"Number squared is  "<<Num_Squared<<endl; 
 
-  return 0; //end function 
+  return 0; 
 }
