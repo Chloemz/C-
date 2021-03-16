@@ -1,9 +1,7 @@
 /*
 Name: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi13500-01 
-Professor Tong Yi
-Lab1D: Month. 
+
+Month. 
 This program asks the user to input the year and the month (1-12) 
 and prints the number of days in that month (taking into account leap years). 
 */
