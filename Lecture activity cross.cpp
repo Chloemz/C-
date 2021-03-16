@@ -1,7 +1,5 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  Lab 4C cross.cpp
-//Instructor: Tong Yi
+
 //This Program asks the user to input the shape size, a
 //and prints a diagonal cross of that dimension.
 
