@@ -1,7 +1,5 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
-//CSCi 13500-01  Lab 4G checkerboard3x3.cpp
-//Instructor: Tong Yi
+
 //This Program asks the user to input width and height and 
 //prints a checkerboard of 3-by-3 squares. (It should work 
 //even if the input dimensions are not a multiple of three.
