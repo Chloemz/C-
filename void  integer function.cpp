@@ -26,7 +26,7 @@ void sort2(int &a, int &b)
 } 
  int main()  
  {
- int a, b; //Note: remember when to declare double vs int
+ int a, b; 
  cout << "Please enter the first integer: "<< endl;
  cin >> a;
  cout << "Please enter the second integer: "<< endl;
