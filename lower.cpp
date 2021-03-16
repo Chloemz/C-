@@ -1,5 +1,5 @@
 //Name: Chloe Zambrano
-//Email: Chloe.zambrano94@myhunter.cuny.edu
+
 
 //This Program prints the bottom-left half of a square, given the side length
 
