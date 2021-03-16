@@ -1,16 +1,14 @@
 /*
 Name: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi13500-01 
-Professor Tong Yi
-Lab1D: Month. 
+
+Days in a month. 
 This program asks the user to input the year and the month (1-12) 
 and prints the number of days in that month. (taking into account leap years).
 */
 
-#include <iostream>   //The built-in library for input/output
-using namespace std; //The names of standard definitions
-int main()           //C++ programs all have a main() function
+#include <iostream>   
+using namespace std; 
+int main()           
 {
   int year, month; //Note: declare double when comparing #s
   cout << "Enter year: "<< endl;
